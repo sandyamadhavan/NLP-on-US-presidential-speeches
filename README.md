@@ -24,6 +24,7 @@ Here, the afore mentioned files were copied from the Gutenberg website and provi
 
 Tasks carried out are listed below
 Analysis 1: Analysis of State of the Union Addresses dataset: Part1(1790 and 1860)
+
 a) List of top 50 words by frequency (normalized by the length of the document) 
 
 b) List of top 50 bigrams by frequencies
