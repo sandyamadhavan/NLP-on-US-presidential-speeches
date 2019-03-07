@@ -1,8 +1,8 @@
 # NLP-on-US-presidential-speeches
-This is a natural language processing mini project on the US presidential speeches from1790-2016.
+This is a natural language processing project on the US presidential speeches from1790-2016.
 
 
-This mini project deals with the analysis of State of the Union Addresses dataset which is a
+This project deals with the analysis of State of the Union Addresses dataset which is a
 collection of annual speeches delivered by the presidents of the United States, from George
 Washington to Barack Obama, to a joint session of the United States Congress for the span of
 1790-2016. The goal is to find the most common words and bigrams in the content that is
